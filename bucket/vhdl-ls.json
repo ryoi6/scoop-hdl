@@ -1,0 +1,13 @@
+{
+    "version": "0.83.0",
+    "description": "This repository contains a fast VHDL language server and analysis library written in Rust.",
+    "homepage": "https://github.com/VHDL-LS/rust_hdl",
+    "license": "Mozilla Public License version 2.0",
+    "url": "https://github.com/VHDL-LS/rust_hdl/releases/download/v0.83.0/vhdl_ls-x86_64-pc-windows-msvc.zip",
+    "bin": "\\bin\\vhdl_ls.exe",
+    "hash": "237f6951734a81c2c6fd9eb4d8e468729a15a3a170f081bc88cabfc10c0679b8",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/VHDL-LS/rust_hdl/releases/download/v$version/vhdl_ls-x86_64-pc-windows-msvc.zip"
+    }
+}
