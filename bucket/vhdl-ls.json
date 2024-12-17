@@ -6,7 +6,7 @@
     "url": "https://github.com/VHDL-LS/rust_hdl/releases/download/v0.83.1/vhdl_ls-x86_64-pc-windows-msvc.zip",
     "extract_dir": "vhdl_ls-x86_64-pc-windows-msvc",
     "bin": "\\bin\\vhdl_ls.exe",
-    "hash": "8e303fe92ad020907d1ac2ddf85f16db4c698b3e46d82ddff450381a38ddf580",
+    "hash": "1fe6af9a1c24575bc349e91404b6276956755c0aac987da55c46ff80ecf16927",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/VHDL-LS/rust_hdl/releases/download/v$version/vhdl_ls-x86_64-pc-windows-msvc.zip"
