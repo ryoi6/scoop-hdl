@@ -1,14 +1,14 @@
 {
-    "version": "0.19.0",
+    "version": "0.19.1",
     "description": "Veryl: A Modern Hardware Description Language",
     "homepage": "https://github.com/veryl-lang/veryl",
     "license": "MIT",
-    "url": "https://github.com/veryl-lang/veryl/releases/download/v0.19.0/veryl-x86_64-windows.zip",
+    "url": "https://github.com/veryl-lang/veryl/releases/download/v0.19.1/veryl-x86_64-windows.zip",
     "bin": [
         "\\veryl.exe",
         "\\veryl-ls.exe"
     ],
-    "hash": "929a139d8808bd562931934f9c2b73a6114e402707cf652060ac3e91905fbcb6",
+    "hash": "a36800d3d40a11a36c6095c1d9a1f8a841392422062a1aedb69780fedf6c7d6f",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/veryl-lang/veryl/releases/download/v$version/veryl-x86_64-windows.zip"
